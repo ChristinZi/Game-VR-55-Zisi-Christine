@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7880347b93a870b42b03833e9d8372cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fire: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - fireStarts: {fileID: 8300000, guid: ea242ee4a28cc354885e5436d716f8bf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
